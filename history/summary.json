@@ -1,8 +1,8 @@
 [
   {
     "name": "TT Hub",
-    "url": "tthub.iliksis.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://tthub.iliksis.com",
+    "icon": "https://icons.duckduckgo.com/ip3/tthub.iliksis.com.ico",
     "slug": "tt-hub",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2620,
-    "timeDay": 2620,
-    "timeWeek": 2620,
-    "timeMonth": 2620,
-    "timeYear": 2620,
+    "time": 2594,
+    "timeDay": 2594,
+    "timeWeek": 2594,
+    "timeMonth": 2594,
+    "timeYear": 2594,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   }
 ]
