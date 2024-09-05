@@ -10,13 +10,14 @@ sites:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  cname: status.iliksis.com
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /$REPO
+  #baseUrl: /$REPO
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   navbar:
     - title: Status
-      href: /$REPO
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
