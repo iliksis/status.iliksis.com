@@ -13,7 +13,7 @@ status-website:
   cname: status.iliksis.com
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #baseUrl: /$REPO
-  themeUrl: ./theme.css
+  theme: ocean
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   navbar:
