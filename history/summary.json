@@ -4,19 +4,19 @@
     "url": "https://tthub.iliksis.com",
     "icon": "https://icons.duckduckgo.com/ip3/tthub.iliksis.com.ico",
     "slug": "tt-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1779,
-    "timeDay": 601,
-    "timeWeek": 1740,
-    "timeMonth": 1688,
-    "timeYear": 1779,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1751,
+    "timeDay": 563,
+    "timeWeek": 1588,
+    "timeMonth": 1655,
+    "timeYear": 1751,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 8
     }
   },
   {
