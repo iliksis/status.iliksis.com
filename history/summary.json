@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tthub.iliksis.com.ico",
     "slug": "tt-hub",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2495,
-    "timeDay": 9765,
-    "timeWeek": 4597,
-    "timeMonth": 2655,
-    "timeYear": 2495,
-    "dailyMinutesDown": {
-      "2024-10-12": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2459,
+    "timeDay": 9362,
+    "timeWeek": 4582,
+    "timeMonth": 2612,
+    "timeYear": 2459,
+    "dailyMinutesDown": {}
   },
   {
     "name": "D2 BountyTracker",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 171,
-    "timeWeek": 161,
-    "timeMonth": 174,
-    "timeYear": 173,
+    "time": 172,
+    "timeDay": 106,
+    "timeWeek": 159,
+    "timeMonth": 172,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   }
 ]
