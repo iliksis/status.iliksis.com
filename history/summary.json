@@ -22,7 +22,7 @@
     "url": "https://tthub.iliksis.com",
     "icon": "https://icons.duckduckgo.com/ip3/tthub.iliksis.com.ico",
     "slug": "tt-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2726,
     "timeMonth": 2014,
     "timeYear": 2004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-19": 0
+    }
   },
   {
     "name": "D2 BountyTracker",
