@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 303,
-    "timeWeek": 745,
-    "timeMonth": 693,
-    "timeYear": 751,
+    "time": 764,
+    "timeDay": 1269,
+    "timeWeek": 882,
+    "timeMonth": 690,
+    "timeYear": 764,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "tt-hub",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "88.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.91%",
-    "time": 1984,
-    "timeDay": 501,
-    "timeWeek": 2396,
-    "timeMonth": 1886,
-    "timeYear": 1984,
+    "time": 2006,
+    "timeDay": 5263,
+    "timeWeek": 2998,
+    "timeMonth": 1963,
+    "timeYear": 2006,
     "dailyMinutesDown": {
       "2025-01-19": 172
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 88,
-    "timeWeek": 122,
-    "timeMonth": 149,
-    "timeYear": 165,
+    "time": 164,
+    "timeDay": 130,
+    "timeWeek": 124,
+    "timeMonth": 148,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   }
 ]
