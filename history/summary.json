@@ -4,18 +4,20 @@
     "url": "https://iliksis.com",
     "icon": "https://icons.duckduckgo.com/ip3/iliksis.com.ico",
     "slug": "iliksis-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 249,
-    "timeWeek": 699,
-    "timeMonth": 793,
-    "timeYear": 805,
-    "dailyMinutesDown": {}
+    "time": 1129,
+    "timeDay": 13505,
+    "timeWeek": 3956,
+    "timeMonth": 1604,
+    "timeYear": 1129,
+    "dailyMinutesDown": {
+      "2025-02-27": 1
+    }
   },
   {
     "name": "TT Hub",
